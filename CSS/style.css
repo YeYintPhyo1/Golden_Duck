@@ -54,3 +54,17 @@ footer{
     text-align: center;
     color: #fff;
 }
+h3{
+    text-align: center;
+    margin: 10px;
+    font-size: 30px;
+}
+.dim-img{
+    width: 185px;
+    height: 150px;
+    padding: 3px;
+    margin: 5px;
+    border: 1px solid #00e1ff;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px #0670c7;
+}
